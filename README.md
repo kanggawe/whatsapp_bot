@@ -1,3 +1,3 @@
 # whatsapp_bot
 
-\*sebuah aplikasi bot whatsapp
+#sebuah aplikasi bot whatsapp
